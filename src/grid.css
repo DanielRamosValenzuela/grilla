@@ -1,0 +1,24 @@
+.headercss{
+    text-align: center;
+    justify-content: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(232, 238, 241);
+    height: 100px;
+}
+
+.contentcss{
+    height: 60vh;
+}
+
+.addEmailAndNamecss {
+    margin: 10px;
+}
+
+.questionCircleTwoTonecss {
+    font-size: large;
+    margin: 10px;
+    margin-left: 700px;
+    
+
+}
